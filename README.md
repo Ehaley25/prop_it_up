@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+It’s been a while- Here is a little bit of form and validation practice with React! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Excited to begin this journey on learning MERN
+
 
 ## Available Scripts
 
